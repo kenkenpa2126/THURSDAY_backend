@@ -2,7 +2,7 @@
 
 ## 概要
 このリポジトリは、T.H.U.R.S.D.A.Y.のバックエンドのリポジトリです。
-フロントエンドのリポジトリは[こちら]([https://github.com/jphacks/NG_2313/tree/master](https://github.com/kenkenpa2126/THURSDAY))。
+フロントエンドのリポジトリは[こちら](https://github.com/kenkenpa2126/THURSDAY)。
 
 ## 使い方
 実行時.envにAPIキーを書く必要があります
