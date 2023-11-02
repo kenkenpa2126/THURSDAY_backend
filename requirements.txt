@@ -1,0 +1,14 @@
+fastapi==0.100.0
+pydantic==2.4.0
+uvicorn==0.20.0
+python-dotenv==1.0.0
+openai==0.28.1
+tenacity==8.2.3
+pytesseract==0.3.10
+langchain ==0.0.305
+tiktoken==0.5.1
+qdrant_client==1.5.4
+logger==1.4
+pypdf
+cryptography
+duckduckgo-search
